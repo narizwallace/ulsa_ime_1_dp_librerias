@@ -66,3 +66,11 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# binary files
+ejemplo
+ejemplo.exe
+
+# os files
+.DS_Store
+Thumbs.db
